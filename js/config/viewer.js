@@ -626,8 +626,7 @@ define([
                     map: true,
                     mapClickMode: true,
                     mapRightClickMenu: true,
-                    fmvserver: 'http://52.23.194.215:8080/',
-                    //fmvserver: 'http://vod-aws.impleotv.com/',
+                    fmvserver: 'http://52.23.194.215/',
                     user: 'guest',
                     pass: 'guest'
                 }
